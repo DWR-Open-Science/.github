@@ -1,10 +1,10 @@
 # DWR Open Science
 
 Welcome to the **DWR-Open-Science** GitHub organization, a shared home for
-resources that help California Department of Water Resources (DWR) staff
-develop, publish, and steward reproducible, open-source scientific work. This
-organization complements—rather than replaces—repositories maintained by DWR
-programs and teams.
+resources that help [California Department of Water Resources](https://www.water.ca.gov)
+(DWR) staff develop, publish, and steward reproducible, open-source scientific
+work. This organization complements—rather than replaces—repositories maintained
+by DWR programs and teams.
 
 ## Explore
 
